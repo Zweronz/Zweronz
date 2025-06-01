@@ -2,7 +2,7 @@
 ![Zweronz](https://github.com/Zweronz/Zweronz/blob/main/dhater%20zwertlinesmallfade.png)
 
 # [Decomp And Recomp](https://github.com/Decomp-And-Recomp)
-![DAR](https://cdn.discordapp.com/attachments/779558094681931820/1364777687755002017/image.png?ex=680ae7c5&is=68099645&hm=03f62159805b55c9ff877d1320f71ab27a5adb01eb6789ccff44cc6705438f25&)
+![DAR](https://github.com/Zweronz/Zweronz/blob/main/darpanel3.png)
 
 Decomp And Recomp is a project led by myself to widely decompile and port (mostly mobile) games created in the Unity Engine.
 Some notable projects include:
